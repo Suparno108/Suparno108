@@ -12,6 +12,12 @@ I am an MCA student at RCC Institute of Information Technology with strong exper
 ![](https://streak-stats.demolab.com/?user=Suparno108&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Suparno108&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suparno108&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Suparno108&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
