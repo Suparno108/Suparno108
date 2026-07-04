@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an MCA student at RCC Institute of Information Technology with strong expertise in Java development and backend technologies, including SQL, JDBC, and Hibernate. I have built machine learning solutions, including a CNN model that achieved 92% accuracy integrated with a real-time image monitoring system using Dlib and OpenCV. I have solved 100+ LeetCode problems, strengthening my skills in data structures, algorithms, and problem-solving, while continuously expanding my technical expertise
+I am an MCA student at RCC Institute of Information Technology with strong expertise in Java development and backend technologies, including SQL, JDBC, and Hibernate. I have built machine learning solutions, including a CNN model that achieved 92% accuracy integrated with a real-time image monitoring system using Dlib and OpenCV. I have solved 100+ LeetCode problems, strengthening my skills in data structures, algorithms, and problem-solving, while continuously expanding my technical expertise..........
 
 
 ## 🌐 Socials:
